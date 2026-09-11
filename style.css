@@ -1,0 +1,37 @@
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+}
+
+nav a{
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+main img{
+    margin:10px;
+    width: 700px;
+    margin: auto;
+}
+
+.pumpkin{
+    margin:10px;
+    width: 700px;
+    margin: auto;
+}
+main{
+    text-align: center;
+}
+
+main p1{
+    padding-top: 20;
+}
