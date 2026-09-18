@@ -35,3 +35,34 @@ main{
 main p1{
     padding-top: 20;
 }
+
+body{
+    height: 100%
+}
+
+#cute{
+    object-fit: cover;
+    display:block;
+    width: 50vw;
+    height: 30vw;
+}
+
+#spooky{
+    object-fit: cover;
+    width: 30vw;
+    display:none;
+}
+
+#page{
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    width: 10%;
+    height: 5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
